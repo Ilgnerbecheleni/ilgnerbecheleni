@@ -1,7 +1,9 @@
+[![Generate SVG image](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
 
-
-<h1>Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile</h1>
 
 ###
 <p>I would like to show part of my work here.</p>
