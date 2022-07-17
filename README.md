@@ -2,6 +2,10 @@
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
+<h1 align="center">Seja Bem vindo ao meu perfil</h1>
+
+<p>Me chamo Ilgner , gosto de desenvolver páginas WEB e tecnologia embarcada , atualmente estou cursando Análise e Desenvolvimento de sistemas pelo Instituto Federal do Norte de Minas - IFNMG Campus PIRAPORA-MG </p>
+
 
 <h1 align="center">Welcome to my profile</h1>
 
