@@ -2,9 +2,61 @@
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
-<h1 align="center">Seja Bem vindo ao meu perfil</h1>
+<h1>Seja Bem vindo ao meu perfil</h1>
 
-<p>Me chamo Ilgner , gosto de desenvolver páginas WEB e tecnologia embarcada , atualmente estou cursando Análise e Desenvolvimento de sistemas pelo Instituto Federal do Norte de Minas - IFNMG Campus PIRAPORA-MG </p>
+<p>Me chamo Ilgner ,tenho 30 anos , sou amante da tecnologia e suas variantes , sempre busco pesquisar mais sobre linguagens de programação e suas aplicabilidades , procuro ser proativo e estou sempre disposto a contribuir com toda a comunidade , espero que possamos fazer boas conexões para troca de experiências </p>
+
+###
+<h2> 🎖️	FORMAÇÕES 🎖️	</h2>
+
+<ul>
+  <li>Tecnologia em Manutenção industiral -Fundação Educacional do Alto Médio São Francisco - FUNAM -<strong>2015</strong></li>
+  <li>Engenharia Elétrica - Faculdades Integradas do Norte de Minas - FUNORTE -<strong>2020</strong></li>
+  <li>Sistemas de Informação - Instituto Federal do Norte de Minas Gerais - CAMPUS PIRAPORA -<strong>... Loading ...</strong></li>
+ 
+</ul>
+
+###
+<h2>💻 TECNOLOGIAS 💻	</h2>
+
+<ul>
+  <li>Desenvolvimento WEB
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Bootstrap</li>
+      <li>React com Typescript</li>
+      <li>Web Aplications</li>
+    </ul>
+    
+    
+  </li>
+    <hr>
+  <li>C#
+   <ul>
+      <li>.Net</li>
+      <li>ASP.NET</li>
+      <li>Criação e consumo de APIs</li>
+       <li>Aplicações Windows Forms</li>
+       <li>Integração com BD Mysql</li>
+    </ul>
+  </li>
+  <hr>
+<li>PHP
+   <ul>
+      <li>Coleta de dados</li>
+      <li>Composer</li>
+      <li>Laravel</li>
+      <li>Integração com BD Mysql</li>
+    </ul>
+  </li>
+  
+ 
+</ul>
+
+
+###
 
 
 <h1 align="center">Welcome to my profile</h1>
@@ -24,12 +76,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+
+
+
 </div>
 
 ###
