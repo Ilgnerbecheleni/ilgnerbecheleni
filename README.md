@@ -18,26 +18,27 @@
 <h2>💻 TECNOLOGIAS 💻	</h2>
 
 <ul>
-  <li>Desenvolvimento WEB
+  <li>Frontend 
     <ul>
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
       <li>Bootstrap</li>
       <li>React com Typescript</li>
+      <li>Angular</li>
       <li>Web Aplications</li>
     </ul>
     
     
   </li>
     <hr>
-  <li>C#
+  <li>Backend 
    <ul>
-      <li>.Net</li>
+      <li>.Net C#</li>
       <li>ASP.NET</li>
-      <li>Criação e consumo de APIs</li>
-       <li>Aplicações Windows Forms</li>
-       <li>Integração com BD Mysql</li>
+      <li>API REST</li>
+       <li>PHP</li>
+       <li>MongoDB</li>
     </ul>
   </li>
   <hr>
