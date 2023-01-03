@@ -42,14 +42,7 @@
     </ul>
   </li>
   <hr>
-<li>PHP
-   <ul>
-      <li>Coleta de dados</li>
-      <li>Composer</li>
-      <li>Laravel</li>
-      <li>Integração com BD Mysql</li>
-    </ul>
-  </li>
+
   
  
 </ul>
