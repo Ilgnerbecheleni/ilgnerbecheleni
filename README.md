@@ -5,7 +5,9 @@
 <p>Sou formado em Engenharia elétrica e sou graduando em Sistemas de informação pelo INFMG - Campus Pirapora , tenho 30 anos e sempre fui fascinado por tecnologia. Estou me especializando no desenvolvimento web, incluindo front end e back end. Meu objetivo é tornar-me habilidoso em desenvolver aplicações web, utilizando as mais recentes tecnologias e práticas de mercado.
   </p>
    <p>
- Como apreciador de tecnologia , desenvolvo circuitos eletrônicos baseados em sistemas embarcados , através de conhecimentos obtidos na graduação em Engenharia Elétrica . Atualmente estou na minha terceira graduação ,Sistemas de Informação  , área que eu gosto e aprecio muito .    
+ Como apreciador de tecnologia , desenvolvo circuitos eletrônicos baseados em sistemas embarcados , através de conhecimentos obtidos na graduação em Engenharia Elétrica . Atualmente estou na minha terceira graduação ,Sistemas de Informação  , área que eu gosto e aprecio muito . 
+  Estou trabalhando e focado em estudar sobre desenvolvimento Backend , atualmente estou fazendo uma pós graduação nessa área que me identifiquei e admiro muito , como pode perceber , se der uma navegada entre meus reposítórios , irá perceber que é um acervo de API's , que particularmente eu gosto muito de criar , se precisar de alguma API epecífica , pode falar .
+  
    </p>
    <p>
     Me considero ágil e consistente em aprender uma nova linguagem e me adaptar à qualquer mudança, sempre apto a superar qualquer desafio!
@@ -19,7 +21,7 @@
   <li>Tecnologia em Manutenção industiral -Fundação Educacional do Alto Médio São Francisco - FUNAM -<strong>2015</strong></li>
   <li>Engenharia Elétrica - Faculdades Integradas do Norte de Minas - FUNORTE -<strong>2020</strong></li>
   <li>Sistemas de Informação - Instituto Federal do Norte de Minas Gerais - CAMPUS PIRAPORA -<strong>... Loading ...</strong></li>
- 
+  <li>Pós Graduação em Desenvolvimento Backend</li>
 </ul>
 
 ## Ferramentas e Tecnologias
