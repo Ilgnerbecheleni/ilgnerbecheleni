@@ -18,7 +18,6 @@
 ##  🎖️	FORMAÇÕES 🎖️	
 
 <ul>
-  <li>Tecnologia em Manutenção industiral -Fundação Educacional do Alto Médio São Francisco - FUNAM -<strong>2015</strong></li>
   <li>Engenharia Elétrica - Faculdades Integradas do Norte de Minas - FUNORTE -<strong>2020</strong></li>
   <li>Sistemas de Informação - Instituto Federal do Norte de Minas Gerais - CAMPUS PIRAPORA -<strong>... Loading ...</strong></li>
   <li>Pós Graduação em Desenvolvimento Backend</li>
