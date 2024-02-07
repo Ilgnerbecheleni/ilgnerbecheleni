@@ -20,7 +20,7 @@
 <ul>
   <li>Engenharia Elétrica - Faculdades Integradas do Norte de Minas - FUNORTE -<strong>2020</strong></li>
   <li>Sistemas de Informação - Instituto Federal do Norte de Minas Gerais - CAMPUS PIRAPORA -<strong>... Loading ...</strong></li>
-  <li>Pós Graduação em Desenvolvimento Backend</li>
+  <li>Pós Graduação em Desenvolvimento Backend - UNOPAR - <strong>2024</strong></li>
 </ul>
 
 ## Ferramentas e Tecnologias
@@ -47,11 +47,11 @@
 </div>
 
 ## Estatìsticas:
-<div align="center">
+<div align="center" >
 <a href="https://github.com/ilgnerbecheleni">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgnerbecheleni&layout=compact&langs_count=7&theme=dracula"/>
 
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilgnerbecheleni&show_icons=true&theme=radical)
   
 
   </div>
